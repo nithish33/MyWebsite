@@ -1,0 +1,164 @@
+.para1{
+    width: 500px;
+    margin: auto ;
+    text-align: center;
+}
+body{
+    margin: 0%;
+}
+body{
+    font-family: 'Merriweather Sans', sans-serif;
+}
+hr{
+    border: dotted #bbd1d1 6px;
+    width: 50px;
+    border-bottom: none;
+    border-right: none;
+    border-left: none;
+    margin: 100px auto;
+}
+#top-container{ 
+    background-color: #CDF0EA;
+    height: 700px;
+}
+.bottom-container{
+    border-color: #66bfbf;
+    margin-top: 60px;
+    text-align: center;
+    padding: 20px 0 10px;
+}
+a{
+    color: #1b4a4b;
+    font-family: 'Montserrat', sans-serif;
+    margin: 20px 10px;
+    text-decoration:none ;
+}
+a:hover{
+    color: #ebf9f8;
+}
+.p{
+    line-height: 2px;
+}
+.cloud1{
+    position: absolute;
+    left: 1000px;
+    top: 100px;
+}
+.bttn{
+    width: 40%;
+    margin: 40px auto 40px; 
+}
+.btn{
+    margin: auto;
+        background: #4daff0;
+        background-image: -webkit-linear-gradient(top, #4daff0, #175982);
+        background-image: -moz-linear-gradient(top, #4daff0, #175982);
+        background-image: -ms-linear-gradient(top, #4daff0, #175982);
+        background-image: -o-linear-gradient(top, #4daff0, #175982);
+        background-image: linear-gradient(to bottom, #4daff0, #175982);
+        -webkit-border-radius: 15;
+        -moz-border-radius: 15;
+        border-radius: 15px;
+        font-family: Arial;
+        color: #ffffff;
+        font-size: 20px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+      }
+      
+      .btn:hover {
+        background: #3cfcf6;
+        background-image: -webkit-linear-gradient(top, #3cfcf6, #34d9b5);
+        background-image: -moz-linear-gradient(top, #3cfcf6, #34d9b5);
+        background-image: -ms-linear-gradient(top, #3cfcf6, #34d9b5);
+        background-image: -o-linear-gradient(top, #3cfcf6, #34d9b5);
+        background-image: linear-gradient(to bottom, #3cfcf6, #34d9b5);
+        text-decoration: none;
+      }
+    
+h1{
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+   text-align: center;
+   position: relative;
+   top: 150px;
+}
+h2{
+    
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    text-align: center;
+}
+.top{
+    font-weight: normal;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 2.4rem;
+    position: relative;
+    top: 120px;
+}
+.mountain{
+    position: absolute;
+    left: 470px;
+    top: 340px;
+}
+.cloud{
+    position: relative ;
+    left: 380px;
+    top: 100px;
+}
+.myimg{
+    margin-top: 100px;
+    float: top;
+    margin-left: 40.0875rem ;
+    height: 12.50rem;
+    width: 12.50rem;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.comp{
+    margin-right: 30px;
+    float: left;
+   height: 6.25rem;
+   width: 6.25rem;
+}
+.chillie{
+    margin-right: 30px ;
+    float: left;
+   height: 6.25rem;
+   width: 6.25rem;
+}
+.skill-row{
+    width: 800px;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+}
+.skill-rowp{
+    width: 800px;
+    text-align: left;
+}
+.skill-row1{
+    text-align:left;
+}
+.skillh1{
+    text-align: left;
+}
+
+/*left: 28.1875rem ;*/
+.bottom-container{
+    background-color: #66BFBF;
+}
+.copyright{
+    color: #eaf6f6;
+}
